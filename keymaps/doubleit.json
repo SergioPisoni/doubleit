@@ -1,0 +1,6 @@
+{
+  ".platform-darwin atom-text-editor:not([mini])": {
+    "alt-cmd-up": "doubleit:before",
+    "alt-cmd-down": "doubleit:after"
+  }
+}

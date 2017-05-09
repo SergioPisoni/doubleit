@@ -1,0 +1,19 @@
+{
+  "name": "doubleit",
+  "main": "/lib/doubleit",
+  "version": "0.0.0",
+  "description": "Duplicate selections or lines, with shortcuts, in Coda (Panic Inc.) way. Multi selections support",
+  "keywords": [],
+  "activationCommands": {
+    "atom-text-editor:not([mini])": [
+      "doubleit:before",
+      "doubleit:after"
+    ]
+  },
+  "repository": "https://github.com/SergioPisoni/doubleit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {}
+}
